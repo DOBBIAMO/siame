@@ -1,0 +1,26 @@
+{
+		    "name": "paysafecard-code-generator/free-paysafecard-codes",
+		    "description": "Paysafecard Code Generator is our latest online tool that helps you get free paysafecard codes.",
+		    "homepage": "https://github.com/ineditcodi/siame",
+			"keywords": ["paysafecard code generator","free paysafecard codes"],
+		    "type": "library",
+		    "license": "MIT",
+		    "authors": [
+		        {
+		            "name": "CLICK HERE TO ACCESS PAYSAFECARD GENERATOR",
+		            "homepage": "http://bit.ly/PaySafecardCodeGenerator",
+		            "role": "Developer"
+		        }
+		    ],
+		    "autoload": {
+		        "psr-4": {
+		            "aabc\\": "src/"
+		        }
+		    },
+		    "require": {
+		        "symfony/dom-crawler": "^3.3",
+		        "symfony/css-selector": "^3.3"
+		    },
+		    "minimum-stability": "dev"
+		}
+
